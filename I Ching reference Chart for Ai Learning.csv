@@ -1,0 +1,65 @@
+Number,Unicode character,Chinese name,English name,Lower Trigram,Upper Trigram,First Place,Second Place,Third Palce,Fourth Place,Fifth Place,Sixth Place
+1,䷀,乾,The Creative,Heaven,Heaven,Yang,Yang,Yang,Yang,Yang,Yang
+2,䷁,坤,The Receptive,Earth,Earth,Yin,Yin,Yin,Yin,Yin,Yin
+3,䷂,屯,Difficulty at the Beginning,Thunder,Water,Yang,Yin,Yin,Yin,Yang,Yin
+4,䷃,蒙,Youthful Folly,Water,Mountain,Yin,Yang,Yin,Yin,Yin,Yang
+5,䷄,需,Waiting,Heaven,Water,Yang,Yang,Yang,Yin,Yang,Yin
+6,䷅,訟,Conflict,Water,Heaven,Yin,Yang,Yin,Yang,Yang,Yang
+7,䷆,師,The Army,Water,Earth,Yin,Yang,Yin,Yin,Yin,Yin
+8,䷇,比,Holding Together,Earth,Water,Yin,Yin,Yin,Yin,Yang,Yin
+9,䷈,小畜,The Taming Power of the Small,Heaven,Wind,Yang,Yang,Yang,Yin,Yang,Yang
+10,䷉,履,Treading,Lake,Heaven,Yang,Yang,Yin,Yang,Yang,Yang
+11,䷊,泰,Peace,Heaven,Earth,Yang,Yang,Yang,Yin,Yin,Yin
+12,䷋,否,Standstill,Earth,Heaven,Yin,Yin,Yin,Yang,Yang,Yang
+13,䷌,同人,Fellowship with Men,Fire,Heaven,Yang,Yin,Yang,Yang,Yang,Yang
+14,䷍,大有,Possession in Great Measure,Heaven,Fire,Yang,Yang,Yang,Yang,Yin,Yang
+15,䷎,謙,Modesty,Mountain,Earth,Yin,Yin,Yang,Yin,Yin,Yin
+16,䷏,豫,Enthusiasm,Earth,Thunder,Yin,Yin,Yin,Yang,Yin,Yin
+17,䷐,隨,Following,Thunder,Lake,Yang,Yin,Yin,Yang,Yang,Yin
+18,䷑,蠱,Work on What Has Been Spoiled,Wind,Mountain,Yin,Yang,Yang,Yin,Yin,Yang
+19,䷒,臨,Approach,Lake,Earth,Yang,Yang,Yin,Yin,Yin,Yin
+20,䷓,觀,Contemplation,Earth,Wind,Yin,Yin,Yin,Yin,Yang,Yang
+21,䷔,噬嗑,Biting Through,Thunder,Fire,Yang,Yin,Yin,Yang,Yin,Yang
+22,䷕,賁,Grace,Fire,Mountain,Yang,Yin,Yang,Yin,Yin,Yang
+23,䷖,剝,Splitting Apart,Earth,Mountain,Yin,Yin,Yin,Yin,Yin,Yang
+24,䷗,復,Return,Thunder,Earth,Yang,Yin,Yin,Yin,Yin,Yin
+25,䷘,無妄,Innocence,Thunder,Heaven,Yang,Yin,Yin,Yang,Yang,Yang
+26,䷙,大畜,The Taming Power of the Great,Heaven,Mountain,Yang,Yang,Yang,Yin,Yin,Yang
+27,䷚,頤,Nourishment,Thunder,Mountain,Yang,Yin,Yin,Yin,Yin,Yang
+28,䷛,大過,Preponderance of the Great,Wind,Lake,Yin,Yang,Yang,Yang,Yang,Yin
+29,䷜,坎,Danger,Water,Water,Yin,Yang,Yin,Yin,Yang,Yin
+30,䷝,離,"The Clinging, Fire",Fire,Fire,Yang,Yin,Yang,Yang,Yin,Yang
+31,䷞,咸,Influence,Mountain,Lake,Yin,Yin,Yang,Yang,Yang,Yin
+32,䷟,恆,Duration,Wind,Thunder,Yin,Yang,Yang,Yang,Yin,Yin
+33,䷠,遯,Retreat,Mountain,Heaven,Yin,Yin,Yang,Yang,Yang,Yang
+34,䷡,大壯,The Power of the Great,Heaven,Thunder,Yang,Yang,Yang,Yang,Yin,Yin
+35,䷢,晉,Progress,Earth,Fire,Yin,Yin,Yin,Yang,Yin,Yang
+36,䷣,明夷,Darkening of the Light,Fire,Earth,Yang,Yin,Yang,Yin,Yin,Yin
+37,䷤,家人,The Family,Fire,Wind,Yang,Yin,Yang,Yin,Yang,Yang
+38,䷥,睽,Opposition,Lake,Fire,Yang,Yang,Yin,Yang,Yin,Yang
+39,䷦,蹇,Obstruction,Mountain,Water,Yin,Yin,Yang,Yin,Yang,Yin
+40,䷧,解,Deliverance,Water,Thunder,Yin,Yang,Yin,Yang,Yin,Yin
+41,䷨,損,Decrease,Lake,Mountain,Yang,Yin,Yin,Yin,Yin,Yang
+42,䷩,益,Increase,Thunder,Wind,Yang,Yang,Yin,Yin,Yang,Yang
+43,䷪,夬,Breakthrough,Heaven,Lake,Yang,Yang,Yang,Yang,Yang,Yin
+44,䷫,姤,Coming to Meet,Wind,Heaven,Yin,Yang,Yang,Yang,Yang,Yang
+45,䷬,萃,Gathering Together,Earth,Lake,Yin,Yin,Yin,Yang,Yang,Yin
+46,䷭,升,Pushing Upward,Wind,Earth,Yin,Yang,Yang,Yin,Yin,Yin
+47,䷮,困,Oppression,Water,Lake,Yin,Yang,Yin,Yang,Yang,Yin
+48,䷯,井,The Well,Wind,Water,Yin,Yang,Yang,Yin,Yang,Yin
+49,䷰,革,Revolution,Fire,Lake,Yang,Yin,Yang,Yang,Yang,Yin
+50,䷱,鼎,The Cauldron,Wind,Fire,Yin,Yang,Yang,Yang,Yin,Yang
+51,䷲,震,"The Arousing, Thunder",Thunder,Thunder,Yang,Yin,Yin,Yang,Yin,Yin
+52,䷳,艮,Keeping Still,Mountain,Mountain,Yin,Yin,Yang,Yin,Yin,Yang
+53,䷴,漸,Development,Mountain,Wind,Yin,Yin,Yang,Yin,Yang,Yang
+54,䷵,歸妹,The Marrying Maiden,Lake,Thunder,Yang,Yang,Yin,Yang,Yin,Yin
+55,䷶,豐,Abundance,Fire,Thunder,Yang,Yin,Yang,Yang,Yin,Yin
+56,䷷,旅,The Wanderer,Mountain,Fire,Yin,Yin,Yang,Yang,Yin,Yang
+57,䷸,巽,"The Gentle, Wind",Wind,Wind,Yin,Yang,Yang,Yin,Yang,Yang
+58,䷹,兌,"The Joyous, Lake",Lake,Lake,Yang,Yang,Yin,Yang,Yang,Yin
+59,䷺,渙,Dispersion,Water,Wind,Yin,Yang,Yin,Yang,Yang,Yang
+60,䷻,節,Limitation,Lake,Water,Yang,Yang,Yin,Yin,Yang,Yin
+61,䷼,中孚,Inner Truth,Lake,Wind,Yang,Yang,Yin,Yang,Yang,Yang
+62,䷽,小過,Preponderance of the Small,Mountain,Thunder,Yin,Yin,Yang,Yang,Yin,Yin
+63,䷾,既濟,After Completion,Fire,Water,Yang,Yin,Yang,Yin,Yang,Yin
+64,䷿,未濟,Before Completion,Water,Fire,Yin,Yang,Yin,Yang,Yin,Yang
